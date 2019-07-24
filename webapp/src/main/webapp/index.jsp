@@ -1,2 +1,2 @@
-<h1> Hello All, Welcome to Happiest Minds Technology !!! </h1>
+<h1> Hello All, Welcome to HappiestMinds !!! </h1>
 
